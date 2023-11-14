@@ -1,0 +1,7 @@
+name: Arcade_Graphics
+displayName: Mindustry_Arcade
+author: BOGDOG
+description: Arcade style graphics for Serpulo.
+version: "1.0"
+minGameVersion: "136"
+hideBrowser: false
